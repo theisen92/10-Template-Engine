@@ -6,7 +6,7 @@ Read Me:
 https://theisen92.github.io/10-Template-Engine/
 
 The team page:
-https://theisen92.github.io/10-Template-Engine/team.html
+https://theisen92.github.io/10-Template-Engine/Develop/output/team.html
 
 ## Usage
 
